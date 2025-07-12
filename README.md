@@ -57,12 +57,12 @@ The following username-password combinations are accepted:
 ## 📂 Project Structure
 
 com.example.simpleLoginPageUi/
-├── MainActivity.java → Login logic & UI
-├── mainPage.java → Welcome screen after login
-└── res/
-└── layout/
-├── activity_main.xml → Login screen layout
-└── main_page.xml → Next screen after login
+|-- MainActivity.java → Login logic & UI
+|-- mainPage.java → Welcome screen after login
+|-- res/
+|-- layout/
+|-- activity_main.xml → Login screen layout
+|-- main_page.xml → Next screen after login
 
 ---
 
