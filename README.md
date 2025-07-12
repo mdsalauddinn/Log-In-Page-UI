@@ -56,3 +56,33 @@ The following username-password combinations are accepted:
 
 ## 📂 Project Structure
 
+com.example.simpleLoginPageUi/
+├── MainActivity.java → Login logic & UI
+├── mainPage.java → Welcome screen after login
+└── res/
+└── layout/
+├── activity_main.xml → Login screen layout
+└── main_page.xml → Next screen after login
+
+---
+
+## 📌 Notes
+
+- This app uses **hardcoded login credentials** — no database or API
+- Ideal for beginners learning multi-activity apps and form validation
+
+---
+
+## 🧑‍💻 Author
+
+**Md Salauddin**  
+*1st Year CSE Student @ Alipurduar Government Engineering and Management College*  
+🌐 [GitHub](https://github.com/yourusername)
+
+---
+
+## 📄 License
+
+This project is open source and free to use.
+
+
