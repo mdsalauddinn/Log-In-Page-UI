@@ -41,15 +41,7 @@ The following username-password combinations are accepted:
 - **Layout:** XML using `LinearLayout`  
 - **IDE:** Android Studio  
 - **Min SDK:** 21 (Lollipop)
-
----
-
-## 📷 Screenshot
-
-![Login UI Screenshot](screenshot.png)
-
-> You can replace this with your actual screenshot from the emulator or device
-
+- 
 ---
 
 ## 🚀 How to Run
