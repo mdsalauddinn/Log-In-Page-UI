@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Login Page UI</string>
+    <string name="hintUsername">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="logIn">Log In</string>
+    <string name="activity">Activity</string>
+    <string name="greet">Welcome</string>
+    <string name="reset">Reset</string>
+</resources>
